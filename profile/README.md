@@ -21,6 +21,16 @@ or languages than the server, to allow for different clients
 (including automated bot clients) to be built.
 
 
+# How It Was Made
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/32124562/182046655-574aded8-dc02-43a3-b6e7-1fade88de5f2.gif"/>
+  <br/>Early experiments with websockets and automatic character motion. 
+  <br/>The client requests to move to a tile, represented as the blue square,
+  <br/>and the server handles movement of the character.  The red square
+  <br/>represents the actual position of the character, according to the server.
+</p>
+
 
 
 
