@@ -69,5 +69,24 @@ hosting on cloud servers, and lessons in programming in general!
 
 
 
+# Future Work
+
+There are several future projects and experiments that working on 
+the Tilegame has encouraged me to try.
+
+* I want to make a 3D game server, with more 
+complicated movement features. One of the things I learned during
+this project is that using TCP (upon which websockets is built) can
+be limiting for real-time games, so in the future I would like to 
+experiment with UDP.
+
+* The "round trip time" tool I made was very rudimentary, and didn't 
+paint a full picture of what was happening. Making tools to test the
+network connections of clients can provide a lot of useful information,
+so in the future I want to improve in this area.
+
+* This game didn't have user accounts or a database, so in the future
+I want to have account management features, logins, and persistent
+storage, so that I can build more interesting features.
 
 
