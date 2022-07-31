@@ -58,9 +58,14 @@ of the packets, and graph them to see what was happening.
   <br/>Round Trip Time (RTT) of packets from mobile devices
 </p>
 
+Finally, I added some cat images to act as the characters, and made
+the text from the chatroom appear over the players head! I had a lot 
+of fun creating this project, and I learned tons about networking, 
+hosting on cloud servers, and lessons in programming in general!
 
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/32124562/182050140-f293ac88-468f-45ab-9a5f-45ec44010748.png" width="300px"/>
+</p>
 
 
 
