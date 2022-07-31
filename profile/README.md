@@ -32,5 +32,10 @@ or languages than the server, to allow for different clients
 </p>
 
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/32124562/182047896-5d3ff0d0-cd96-48a2-b88d-a594ecef5a6d.png" width="600px"/>
+  <br/>Testing the Round Trip Time (RTT) of websocket packets between the
+  <br/>client and server. The examples pictured above are from mobile devices
+  <br/>in a variety of conditions.
+</p>
 
