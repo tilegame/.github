@@ -6,6 +6,10 @@ to the same webpage in their browser. Everybody has a cat character,
 and can easily type in their chat message, which will appear above 
 your character, and is visible to everybody else who is also online!
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/32124562/182004229-e36006a0-648b-43f2-9337-5d7241c2b2a5.png" alt="Example scene from the tilegame" width="300px"/>
+  <br/>Characters chatting in the TileGame
+</p>
 
 # Motivation
 
